@@ -1,2 +1,7 @@
 (executable
-  (name main))
+  (name a)
+  (modules a))
+
+(executable
+  (name b)
+  (modules b))
