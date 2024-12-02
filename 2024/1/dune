@@ -1,2 +1,5 @@
+(cram
+ (deps test01.in))
+
 (executable
  (name main))
